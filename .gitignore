@@ -1,0 +1,12 @@
+*.pyc
+external_libraries/coin-Clp-1.15/*
+*target/*
+*target/
+*.o
+*obj
+*.iml
+*.idea
+*.swp
+.DS_Store
+**dependency-reduced-pom.xml
+
